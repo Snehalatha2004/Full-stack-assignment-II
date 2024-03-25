@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+    color: rgb(201, 121, 121);
+}
+#outer{
+    font-size:25px;
+}
+#inner{
+    font-size: 15px;
+}

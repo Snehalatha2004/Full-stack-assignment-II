@@ -1,0 +1,11 @@
+div{
+border: 3px double pink;
+        padding: 15px;
+    
+}
+img{
+        float: right;
+}
+.clearfix{
+        overflow: auto;
+ }

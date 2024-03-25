@@ -1,0 +1,39 @@
+
+div{
+
+    float:left; 
+    }
+
+    .div1{
+    background-color:pink;
+    width: 33.33%;
+    height: 150px;
+    }
+    .div2{
+    background-color:orange;
+    width: 33.33%;
+    height: 150px;
+    
+    }
+    .div3{
+    background-color:green;
+    width: 33.33%;
+    height: 150px; 
+}
+.div4{
+background-color:yellow;
+width: 33.33%;
+height: 150px;
+}
+.div5{
+    background-color:rgb(211, 60, 198);
+    width: 33.33%;
+    height: 150px;
+    
+    }
+    .div6{
+        background-color:brown;
+        width: 33.33%;
+        height: 150px;
+        
+        }

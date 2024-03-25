@@ -1,0 +1,35 @@
+
+div{
+
+    float:left;
+
+    
+
+
+    }
+    
+    
+    .div1{
+    background-color:pink;
+    width: 25%;
+    height: 150px;
+
+    }
+    .div2{
+    background-color:orange;
+    width: 25%;
+    height: 150px;
+    
+    }
+    .div3{
+    background-color:green;
+    width: 25%;
+    height: 150px;
+    
+}
+.div4{
+background-color:yellow;
+width: 25%;
+height: 150px;
+
+}
